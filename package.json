@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "coffee",
+  "description": "App for coffee lovers",
   "version": "0.0.1",
   "scripts": {
     "start": "sapper dev",
